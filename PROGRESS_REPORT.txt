@@ -1,0 +1,16 @@
+What Part of the project are you currently working on?
+  I am working on implementing the TwelfthWord function in TextQuery1b and the
+  LongerThan function in TextQuery2
+
+
+What can you do to be successful at this project?
+  Go to office hours and put in the time needed to become competent 
+  in the material that's in this project
+  
+
+
+
+What can we do to help you be successful at this project?
+  Point me in the right directon for starting the TwelfthWord
+
+
